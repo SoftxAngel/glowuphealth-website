@@ -1,0 +1,18 @@
+body {
+  background-color: #fff0f5;
+  color: #333;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff69b4;
+  font-size: 3em;
+  text-align: center;
+  text-shadow: 2px 2px #ffc0cb;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
